@@ -1,0 +1,7 @@
+ # conados basicos do git bush # 
+
+ - cd é para ir na pasta da sua escolha
+ - dir lista todos os documentos que estão na pasta
+ - mkdir cria uma nova pasta usando o git bush
+ - del apagar todos os arquivos que estão na pasta
+ - mrdir apagar a pasta por completo. 
