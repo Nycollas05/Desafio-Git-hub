@@ -1,4 +1,4 @@
- # conados basicos do git bush # 
+ # comados basicos do git bush # 
 
  - cd é para ir na pasta da sua escolha
  - dir lista todos os documentos que estão na pasta
